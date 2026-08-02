@@ -1,0 +1,204 @@
+[
+  {
+    "name": "Anya",
+    "preset": {
+      "BendRangeI": {
+        "value": 2
+      },
+      "BendRangeII": {
+        "value": 2
+      },
+      "CoarseI": {
+        "value": 0
+      },
+      "CoarseII": {
+        "value": 0
+      },
+      "EnvIAttack": {
+        "value": 5
+      },
+      "EnvIDecay": {
+        "value": 50
+      },
+      "EnvIIAttack": {
+        "value": 5
+      },
+      "EnvIIDecay": {
+        "value": 50
+      },
+      "EnvIIRelease": {
+        "value": 50
+      },
+      "EnvIISustain": {
+        "value": 0.5
+      },
+      "EnvIRelease": {
+        "value": 50
+      },
+      "EnvISustain": {
+        "value": 0.5
+      },
+      "FilterICutOff": {
+        "value": 20000
+      },
+      "FilterIICutOff": {
+        "value": 20000
+      },
+      "ModulationMode": {
+        "value": 1
+      },
+      "VolumeI": {
+        "value": 0.3
+      },
+      "VolumeII": {
+        "value": 0.3
+      },
+      "WaveformI": {
+        "value": 1
+      },
+      "WaveformII": {
+        "value": 0
+      },
+      "__sps": {
+        "poly": [
+          {
+            "__sps": {
+              "EnvelopeI": {},
+              "EnvelopeII": {},
+              "OscillatorI": {
+                "__sps": {
+                  "BendFreq": {}
+                }
+              },
+              "OscillatorII": {
+                "__sps": {
+                  "BendFreq": {}
+                }
+              },
+              "Output": {}
+            }
+          },
+          {
+            "__sps": {
+              "EnvelopeI": {},
+              "EnvelopeII": {},
+              "OscillatorI": {
+                "__sps": {
+                  "BendFreq": {}
+                }
+              },
+              "OscillatorII": {
+                "__sps": {
+                  "BendFreq": {}
+                }
+              },
+              "Output": {}
+            }
+          },
+          {
+            "__sps": {
+              "EnvelopeI": {},
+              "EnvelopeII": {},
+              "OscillatorI": {
+                "__sps": {
+                  "BendFreq": {}
+                }
+              },
+              "OscillatorII": {
+                "__sps": {
+                  "BendFreq": {}
+                }
+              },
+              "Output": {}
+            }
+          },
+          {
+            "__sps": {
+              "EnvelopeI": {},
+              "EnvelopeII": {},
+              "OscillatorI": {
+                "__sps": {
+                  "BendFreq": {}
+                }
+              },
+              "OscillatorII": {
+                "__sps": {
+                  "BendFreq": {}
+                }
+              },
+              "Output": {}
+            }
+          },
+          {
+            "__sps": {
+              "EnvelopeI": {},
+              "EnvelopeII": {},
+              "OscillatorI": {
+                "__sps": {
+                  "BendFreq": {}
+                }
+              },
+              "OscillatorII": {
+                "__sps": {
+                  "BendFreq": {}
+                }
+              },
+              "Output": {}
+            }
+          },
+          {
+            "__sps": {
+              "EnvelopeI": {},
+              "EnvelopeII": {},
+              "OscillatorI": {
+                "__sps": {
+                  "BendFreq": {}
+                }
+              },
+              "OscillatorII": {
+                "__sps": {
+                  "BendFreq": {}
+                }
+              },
+              "Output": {}
+            }
+          },
+          {
+            "__sps": {
+              "EnvelopeI": {},
+              "EnvelopeII": {},
+              "OscillatorI": {
+                "__sps": {
+                  "BendFreq": {}
+                }
+              },
+              "OscillatorII": {
+                "__sps": {
+                  "BendFreq": {}
+                }
+              },
+              "Output": {}
+            }
+          },
+          {
+            "__sps": {
+              "EnvelopeI": {},
+              "EnvelopeII": {},
+              "OscillatorI": {
+                "__sps": {
+                  "BendFreq": {}
+                }
+              },
+              "OscillatorII": {
+                "__sps": {
+                  "BendFreq": {}
+                }
+              },
+              "Output": {}
+            }
+          }
+        ]
+      }
+    }
+  }
+]
